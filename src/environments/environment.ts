@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  contextRoot: "http://localhost:8080/escuela-rest-api/v1"
 };
 
 /*
